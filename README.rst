@@ -40,4 +40,3 @@ C or Fortran are significantly faster than high-level languages with
 this algorithm.  However, for illustrative purposes, I've also included a
 Python implementation below.  There are two files.  The first computes the
 policy function and the second implements perfect sampling.
-
